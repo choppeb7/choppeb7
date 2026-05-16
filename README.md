@@ -1,152 +1,251 @@
+<div align="center">
 
-# Hola, soy Christian Hoppe 
+# 👋 Hi, I'm Christian Hoppe
 
-Soy un profesional apasionado por la transformación digital de empresas industriales. Mi experiencia combina el mundo comercial y técnico de la automatización industrial con el desarrollo de soluciones digitales, análisis de datos, automatización de procesos e inteligencia artificial aplicada a problemas reales de negocio.
+### Digital Transformation | AI & Data Science | Industrial Automation | E-commerce | Process Automation
 
-Actualmente trabajo en proyectos relacionados con e-commerce, automatización de procesos internos, análisis de inventarios, predicción de reabastecimiento, integración de sistemas empresariales y desarrollo de herramientas que ayuden a tomar mejores decisiones comerciales y operativas.
+<p>
+  <a href="https://github.com/choppeb7">
+    <img src="https://img.shields.io/badge/GitHub-choppeb7-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Christian%20Hoppe-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-## Sobre mí
+</div>
 
-Me interesa construir soluciones que conecten la tecnología con necesidades reales de negocio. No veo la programación únicamente como código, sino como una herramienta para mejorar procesos, reducir trabajo manual, aumentar la eficiencia y generar nuevas oportunidades comerciales.
+---
 
-Tengo experiencia trabajando en entornos industriales, especialmente en la comercialización de equipos técnicos, automatización, repuestos industriales y soluciones Siemens. Esta experiencia me ha permitido entender problemas reales de inventario, ventas, atención al cliente, cotizaciones, procesos internos y digitalización comercial.
+## 🚀 About Me
 
-Actualmente estoy fortaleciendo mi perfil en inteligencia artificial, ciencia de datos, automatización de flujos de trabajo y desarrollo web.
+I am passionate about building digital solutions for industrial businesses by combining technical knowledge, business vision, data analytics, automation and artificial intelligence.
 
-## Proyectos e intereses principales
+My work connects the industrial world with modern technology: e-commerce, process automation, inventory analytics, web scraping, ERP integrations and AI-driven decision-making.
 
-### E-commerce de CEROSA
+---
 
-He participado en la creación y desarrollo de un e-commerce para CEROSA, orientado a digitalizar la venta de productos industriales y mejorar la experiencia de compra de clientes B2B y B2C.
+## 🧩 Main Focus Areas
 
-Este proyecto involucra:
+<table>
+<tr>
+<td width="50%">
 
-- Desarrollo y seguimiento de una plataforma web comercial.
-- Integración con inventario, productos y socios de negocio.
-- Coordinación de diseño UI y desarrollo backend.
-- Definición de reglas comerciales, precios, descuentos, metodos de pago. 
-- Desarrollo de CRM para captura de oportunidades en ecommerce.
-- Digitalización del proceso de venta con artículos personalizados a la medida.
+### 🛒 E-commerce & Digital Sales
 
-Mi objetivo con este proyecto es transformar un modelo comercial tradicional en una plataforma digital escalable, capaz de integrarse con procesos internos y generar nuevas oportunidades de negocio.
+- Development of CEROSA's e-commerce platform
+- B2B and B2C digital sales strategy
+- Product catalog and inventory integration
+- Commercial rules, pricing and commissions
+- Digital transformation of traditional sales processes
 
-### Proyectos con Odoo
+</td>
+<td width="50%">
 
-También he trabajado e investigado soluciones relacionadas con Odoo para la gestión empresarial, automatización de procesos y posible integración con operaciones comerciales.
+### 🤖 Automation & n8n
 
-Me interesa especialmente el uso de Odoo para:
+- Workflow automation
+- API integrations
+- Internal process optimization
+- Notifications and approval flows
+- Connection between forms, emails, databases and business systems
 
-- Creación de reportes ejecutivos de ventas y oportunidades.
-- Personalización del flujo de oportunidades en CRM
-- Automatización de asignación de oportunidades segun requerimiento del cliente.
-- Integración con SAP Business one.
-- Integración API de lógisitca C807Express.
-- Integración Plausible para trazabilidad de flujo de usuarios en ecommerce.
+</td>
+</tr>
 
-### Análisis de datos aplicado a inventarios y ventas
+<tr>
+<td width="50%">
 
-Uno de mis principales enfoques es el análisis de datos aplicado a problemas reales de inventario, ventas y rentabilidad.
+### 📊 Data Analytics
 
-He trabajado en proyectos relacionados con:
+- Inventory analysis
+- Sales behavior analysis
+- Pricing automation
+- Obsolescence risk classification
+- SAP Business One data preparation
+- Business intelligence for decision-making
 
-- Creacion de soluciones Webscrapping para analisis de precios de la competencia.
-- Automatizacion del proceso de digitalización de repuestos industriales.
-- Automatización de reportes en Python.
-- Creación de sistemas RAG para verificar información tecnica de repuestos agilmente.
-- Redes neuronales recurrentes para predicción de ventas.
-- Autoencoders en analisis de vibración para detectar anomalias.
-- Sistemas NLP para clasificación de tickets de servicio.
-- Sistemas NLP pra clasificación de inventario.
-  
-Estos proyectos buscan mejorar la toma de decisiones en compras, ventas, inventario y estrategias comerciales.
+</td>
+<td width="50%">
 
-### Predicción de reabastecimiento de repuestos industriales
+### 🧠 AI & Machine Learning
 
-Como parte de mi formación en inteligencia artificial, estoy desarrollando un proyecto enfocado en la predicción de reabastecimiento de repuestos industriales.
+- Demand forecasting
+- Industrial spare parts replenishment prediction
+- Time series analysis
+- Clustering of spare parts
+- Predictive models by product behavior
+- Anomaly detection and applied AI
 
-El reto principal es que los repuestos industriales no siempre tienen ventas constantes. Algunos productos tienen demanda irregular, otros dependen de fabricantes específicos, tiempos de entrega, estacionalidad, criticidad o comportamiento histórico muy variable.
+</td>
+</tr>
 
-Por eso, el proyecto no se limita a aplicar un solo modelo predictivo. La idea es primero clasificar o clusterizar los repuestos según sus características y comportamiento de ventas, para luego seleccionar el modelo de predicción más adecuado por grupo.
+<tr>
+<td width="50%">
 
-Este proyecto combina:
+### 🌐 Web Scraping
 
-- Series temporales.
-- Clustering.
-- Feature engineering.
-- Análisis de ventas.
-- Lead times.
-- Clasificación de productos.
-- Modelos predictivos.
-- Evaluación de métricas de predicción.
+- Data extraction from websites
+- Automated information gathering
+- Selenium and Requests
+- Data cleaning with Pandas
+- External data integration for business analysis
 
-### Automatización con n8n
+</td>
+<td width="50%">
 
-Tengo un fuerte interés en n8n como herramienta para automatizar procesos internos y conectar diferentes sistemas sin depender completamente de desarrollos tradicionales.
+### ⚙️ Industrial Automation
 
-Me interesa utilizar n8n para:
+- Siemens solutions
+- Technical-commercial project support
+- Automation projects
+- PLCs, drives, soft starters and control panels
+- Industrial digitalization
 
-- Automatizar flujos administrativos.
-- Conectar APIs.
-- Procesar información entre sistemas.
-- Enviar notificaciones automáticas.
-- Crear flujos de aprobación.
-- Integrar formularios, bases de datos, correos y sistemas empresariales.
-- Reducir tareas manuales repetitivas.
+</td>
+</tr>
+</table>
 
-Veo n8n como una herramienta clave para que las empresas puedan implementar automatizaciones rápidas, flexibles y escalables.
+---
 
-### Web scraping y automatización de extracción de datos
+## 🧪 Featured Projects
 
-También he trabajado en proyectos de web scraping y automatización para extraer información desde sitios web, APIs y fuentes externas.
+<table>
+<tr>
+<td width="50%">
 
-Estos proyectos me han permitido trabajar con:
+### 📦 Industrial Spare Parts Replenishment Prediction
 
-- Python.
-- Requests.
-- Selenium.
-- Pandas.
-- Extracción de datos web.
-- Limpieza y transformación de información.
-- Automatización de consultas repetitivas.
-- Integración de datos externos con análisis internos.
+AI project focused on predicting replenishment needs for industrial spare parts using historical sales analysis, clustering and forecasting models.
 
-El objetivo de estos proyectos es convertir información dispersa en datos útiles para análisis, comparación, reportes o toma de decisiones.
+**Key topics:**  
+`Time Series` `Clustering` `Forecasting` `Inventory Analytics` `Machine Learning`
 
-## Tecnologías y herramientas
+</td>
+<td width="50%">
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow / Keras
-- SQL
-- SAP Business One
-- Streamlit
-- Git / GitHub
-- Selenium
-- Requests
-- n8n
-- Odoo
-- APIs
-- Automatización de procesos
-- Análisis de datos
-- Machine Learning
+### 📉 Inventory Obsolescence Risk Analysis
 
-## Áreas que me apasionan
+Python-based tool to classify products according to stock level, sales history, inventory reach and last purchase date.
 
-- Inteligencia artificial aplicada a negocios reales.
-- Automatización de procesos empresariales.
-- Digitalización de empresas industriales.
-- E-commerce B2B y B2C.
-- Predicción de inventarios.
-- Optimización de procesos internos.
-- Web scraping y extracción de datos.
-- Integración de sistemas.
-- Desarrollo de herramientas internas para mejorar la productividad.
+**Key topics:**  
+`Python` `Pandas` `SAP B1` `Inventory` `Business Analytics`
 
-## Mi enfoque
+</td>
+</tr>
 
-Mi objetivo es combinar conocimiento técnico, visión comercial y herramientas digitales para crear soluciones prácticas que generen impacto real en las empresas.
+<tr>
+<td width="50%">
 
-Me interesa especialmente desarrollar proyectos que no se queden solamente en la parte académica o experimental, sino que puedan convertirse en herramientas útiles para ventas, inventario, operaciones, atención al cliente y toma de decisiones estratégicas.<!-
+### 🛒 CEROSA E-commerce Platform
+
+Digital commerce project focused on transforming industrial product sales through an online B2B/B2C platform.
+
+**Key topics:**  
+`E-commerce` `APIs` `Product Catalog` `Digital Sales` `Business Rules`
+
+</td>
+<td width="50%">
+
+### 🔁 Rossmann Sales Forecasting with RNNs
+
+Academic AI project using recurrent neural networks to predict sales based on historical time series data.
+
+**Key topics:**  
+`TensorFlow` `Keras` `GRU` `LSTM` `Time Series`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Process Automation with n8n
+
+Exploration and implementation of automated workflows to reduce repetitive manual tasks and connect business systems.
+
+**Key topics:**  
+`n8n` `APIs` `Automation` `Workflow Design` `Productivity`
+
+</td>
+<td width="50%">
+
+### 🌐 Web Scraping Projects
+
+Automation projects for extracting, cleaning and transforming web data into useful business information.
+
+**Key topics:**  
+`Python` `Selenium` `Requests` `Pandas` `Data Extraction`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Programming & Data
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+### Automation & Business Systems
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge" />
+
+### Web & Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+</div>
+
+---
+
+## 🎯 What Drives Me
+
+<div align="center">
+
+> I believe technology should solve real business problems, reduce manual work, improve decision-making and create scalable digital processes.
+
+</div>
+
+---
+
+## 📌 Current Interests
+
+<table>
+<tr>
+<td align="center" width="25%">🧠 Applied AI</td>
+<td align="center" width="25%">📦 Inventory Forecasting</td>
+<td align="center" width="25%">🤖 n8n Automation</td>
+<td align="center" width="25%">🛒 Industrial E-commerce</td>
+</tr>
+<tr>
+<td align="center" width="25%">🌐 Web Scraping</td>
+<td align="center" width="25%">📊 Data Analytics</td>
+<td align="center" width="25%">⚙️ Industrial Automation</td>
+<td align="center" width="25%">🔗 ERP Integrations</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### Building digital solutions for industrial businesses.
+
+</div>
 
