@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hola, soy Christian Hoppe 👋
+# Hola, soy Christian Hoppe 
 
 Soy un profesional apasionado por la transformación digital de empresas industriales. Mi experiencia combina el mundo comercial y técnico de la automatización industrial con el desarrollo de soluciones digitales, análisis de datos, automatización de procesos e inteligencia artificial aplicada a problemas reales de negocio.
 
