@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Christian W. Hoppe Bellegarrigue
+# Christian W. Hoppe Bellegarrigue
 
 <h3>Mechanical Engineer specialized in Data Science</h3>
 <h3>Master's Degree in Artificial Intelligence | AI Systems Developer</h3>
