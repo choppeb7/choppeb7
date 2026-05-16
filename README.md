@@ -2,15 +2,20 @@
 
 # 👋 Hi, I'm Christian Hoppe
 
-### Digital Transformation | AI & Data Science | Industrial Automation | E-commerce | Process Automation
+<h3>Mechanical Engineer specialized in Data Science</h3>
+<h3>Master's Degree in Artificial Intelligence | AI Systems Developer</h3>
 
 <p>
   <a href="https://github.com/choppeb7">
     <img src="https://img.shields.io/badge/GitHub-choppeb7-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/christian-w-hoppe-bellegarrigue-43a363193/">
     <img src="https://img.shields.io/badge/LinkedIn-Christian%20Hoppe-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+</p>
+
+<p>
+  <strong>Digital Transformation | AI & Data Science | Industrial Automation | E-commerce | Process Automation</strong>
 </p>
 
 </div>
@@ -19,9 +24,11 @@
 
 ## 🚀 About Me
 
-I am passionate about building digital solutions for industrial businesses by combining technical knowledge, business vision, data analytics, automation and artificial intelligence.
+I am a Mechanical Engineer specialized in Data Science, currently pursuing a Master's Degree in Artificial Intelligence and developing AI-based systems focused on solving real business problems.
 
-My work connects the industrial world with modern technology: e-commerce, process automation, inventory analytics, web scraping, ERP integrations and AI-driven decision-making.
+My professional profile combines industrial engineering, technical-commercial experience, data analytics, process automation and artificial intelligence.
+
+I am especially interested in building digital solutions for industrial businesses by connecting e-commerce, ERP systems, automation tools, web scraping, machine learning and AI-driven decision-making.
 
 ---
 
@@ -29,7 +36,7 @@ My work connects the industrial world with modern technology: e-commerce, proces
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 E-commerce & Digital Sales
 
@@ -40,7 +47,7 @@ My work connects the industrial world with modern technology: e-commerce, proces
 - Digital transformation of traditional sales processes
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Automation & n8n
 
@@ -54,7 +61,7 @@ My work connects the industrial world with modern technology: e-commerce, proces
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Data Analytics
 
@@ -66,7 +73,7 @@ My work connects the industrial world with modern technology: e-commerce, proces
 - Business intelligence for decision-making
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 AI & Machine Learning
 
@@ -81,7 +88,7 @@ My work connects the industrial world with modern technology: e-commerce, proces
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Web Scraping
 
@@ -92,7 +99,7 @@ My work connects the industrial world with modern technology: e-commerce, proces
 - External data integration for business analysis
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Industrial Automation
 
@@ -112,70 +119,70 @@ My work connects the industrial world with modern technology: e-commerce, proces
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📦 Industrial Spare Parts Replenishment Prediction
 
 AI project focused on predicting replenishment needs for industrial spare parts using historical sales analysis, clustering and forecasting models.
 
-**Key topics:**  
-`Time Series` `Clustering` `Forecasting` `Inventory Analytics` `Machine Learning`
+<strong>Key topics:</strong><br>
+<code>Time Series</code> <code>Clustering</code> <code>Forecasting</code> <code>Inventory Analytics</code> <code>Machine Learning</code>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📉 Inventory Obsolescence Risk Analysis
 
 Python-based tool to classify products according to stock level, sales history, inventory reach and last purchase date.
 
-**Key topics:**  
-`Python` `Pandas` `SAP B1` `Inventory` `Business Analytics`
+<strong>Key topics:</strong><br>
+<code>Python</code> <code>Pandas</code> <code>SAP B1</code> <code>Inventory</code> <code>Business Analytics</code>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 CEROSA E-commerce Platform
 
 Digital commerce project focused on transforming industrial product sales through an online B2B/B2C platform.
 
-**Key topics:**  
-`E-commerce` `APIs` `Product Catalog` `Digital Sales` `Business Rules`
+<strong>Key topics:</strong><br>
+<code>E-commerce</code> <code>APIs</code> <code>Product Catalog</code> <code>Digital Sales</code> <code>Business Rules</code>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔁 Rossmann Sales Forecasting with RNNs
 
 Academic AI project using recurrent neural networks to predict sales based on historical time series data.
 
-**Key topics:**  
-`TensorFlow` `Keras` `GRU` `LSTM` `Time Series`
+<strong>Key topics:</strong><br>
+<code>TensorFlow</code> <code>Keras</code> <code>GRU</code> <code>LSTM</code> <code>Time Series</code>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Process Automation with n8n
 
 Exploration and implementation of automated workflows to reduce repetitive manual tasks and connect business systems.
 
-**Key topics:**  
-`n8n` `APIs` `Automation` `Workflow Design` `Productivity`
+<strong>Key topics:</strong><br>
+<code>n8n</code> <code>APIs</code> <code>Automation</code> <code>Workflow Design</code> <code>Productivity</code>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Web Scraping Projects
 
 Automation projects for extracting, cleaning and transforming web data into useful business information.
 
-**Key topics:**  
-`Python` `Selenium` `Requests` `Pandas` `Data Extraction`
+<strong>Key topics:</strong><br>
+<code>Python</code> <code>Selenium</code> <code>Requests</code> <code>Pandas</code> <code>Data Extraction</code>
 
 </td>
 </tr>
@@ -195,12 +202,16 @@ Automation projects for extracting, cleaning and transforming web data into usef
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
+<br><br>
+
 ### Automation & Business Systems
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
 <img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge" />
+
+<br><br>
 
 ### Web & Tools
 
@@ -218,7 +229,31 @@ Automation projects for extracting, cleaning and transforming web data into usef
 
 <div align="center">
 
-> I believe technology should solve real business problems, reduce manual work, improve decision-making and create scalable digital processes.
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💡 Business Impact
+
+Building solutions that solve real operational and commercial problems.
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Process Efficiency
+
+Reducing manual work through automation, data and system integration.
+
+</td>
+<td align="center" width="33%">
+
+### 🧠 Applied AI
+
+Using artificial intelligence as a practical tool for decision-making.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -246,5 +281,9 @@ Automation projects for extracting, cleaning and transforming web data into usef
 <div align="center">
 
 ### Building digital solutions for industrial businesses.
+
+<p>
+  <em>Combining engineering, data science, automation and artificial intelligence to create scalable business solutions.</em>
+</p>
 
 </div>
